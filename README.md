@@ -13,7 +13,7 @@ A modern, professional website for Vellore Optical - an eyewear store located in
 
 ## 🚀 Live Demo
 
-Visit the live site: [https://velloreoptical.com](https://velloreoptical.com)
+Visit the live site: [https://velloreoptical.netlify.app](velloreoptical.netlify.app)
 
 ## 📱 Screenshots
 
