@@ -13,7 +13,7 @@ A modern, professional website for Vellore Optical - an eyewear store located in
 
 ## 🚀 Live Demo
 
-Visit the live site: [https://velloreoptical.netlify.app](velloreoptical.netlify.app)
+Visit the live site: [https://velloreoptical.netlify.app/](https://velloreoptical.netlify.app/)
 
 ## 📱 Screenshots
 
@@ -215,6 +215,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Tailwind CSS](https://tailwindcss.com) for styling framework
 - [Next.js](https://nextjs.org) for the React framework
 
----
-
-*Built with ❤️ for the Vellore Optical community*
